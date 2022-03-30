@@ -1,0 +1,23 @@
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+.menu {
+    padding: 3rem;
+    background-color: whitesmoke;
+    width: auto;
+    
+}
+
+.navDate{
+    display: flex;
+    justify-content: space-around;
+    /* padding-right: 35%; */
+    padding-left: 60%;
+    
+}
+h1{
+    background-color: wheat;
+}
